@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning so many things!
 - 🌱 I’m currently learning Python
 - 💞️ not yet looking to collaborate; not that far along yet... 
-- 📫 How to reach me ...lori
+- 📫 so no need to reach me yet! ;) 
 
 <!---
 loricaldwell/loricaldwell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
