@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lori
 - 👀 I’m interested in learning so many things!
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on not that far along yet... 
+- 💞️ not yet looking to collaborate; not that far along yet... 
 - 📫 How to reach me ...lori
 
 <!---
